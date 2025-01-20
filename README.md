@@ -1,6 +1,6 @@
- <body bg-color="purple">
+ <body background-color="purple">
  <h1>Hi, I’m Uzma </h1>
-<img src="https://i.pinimg.com/736x/c9/dd/ab/c9ddababf2bc1ef62a0ccad6836712c8.jpg" align="right" > 
+<img src="https://i.pinimg.com/736x/c9/dd/ab/c9ddababf2bc1ef62a0ccad6836712c8.jpg"  style="float: right; margin-left: 10px;"> 
     <ul>
         <li>👀 I’m interested and passionate about technology, innovation and big challenging tasks on my to-do list.
   That makes me want to learn more and keep up with building something greater than me.</li>
