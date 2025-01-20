@@ -8,7 +8,7 @@
         <li>💞️ I’m looking to collaborate to help new developers find people (both experienced or also learning) 
  to work on projects that they are mutually interested in.</li>
         <li>😄 Pronouns: her/she.</li>
-        <li>How you reach me:<a href="mailto:devUzma97@gmail.com"></a></li>
+        <li>How you reach me:<a href="mailto:devUzma97@gmail.com">devUzma97@gmail.com</a></li>
         <li>⚡ Fun fact: “An interesting fact about me is that I love participating in hackathons. 
  Hackathons push me to think on my feet and quickly implement solutions under pressure. 
  I enjoy the thrill of turning ideas into functional prototypes. This experience translates directly into 
