@@ -1,5 +1,5 @@
  <body bgcolor="lightblue">
- <h1>Hi, I’m Uzma <img src="https://cdn.hugeicons.com/icons/hold-01-solid-rounded.svg"></h1>
+ <h1>Hi, I’m Uzma <img src="https://cdn.hugeicons.com/icons/hold-01-solid-rounded.svg"></h1><img src="https://cdn.hugeicons.com/icons/hold-01-solid-rounded.svg">
 <img src="https://i.pinimg.com/236x/fb/5f/c8/fb5fc867c54450be31342e6d3a0b845c.jpg"  align= "right"  height="400" width="400";> 
     <ul>
         <li>👀 I’m interested and passionate about technology, innovation and big challenging tasks on my to-do list.
