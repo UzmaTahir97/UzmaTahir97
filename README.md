@@ -1,5 +1,6 @@
+ <body bg-color="purple">
  <h1>Hi, I’m Uzma </h1>
-<img src="https://i.pinimg.com/736x/c9/dd/ab/c9ddababf2bc1ef62a0ccad6836712c8.jpg" align="left" > 
+<img src="https://i.pinimg.com/736x/c9/dd/ab/c9ddababf2bc1ef62a0ccad6836712c8.jpg" align="right" > 
     <ul>
         <li>👀 I’m interested and passionate about technology, innovation and big challenging tasks on my to-do list.
   That makes me want to learn more and keep up with building something greater than me.</li>
@@ -13,7 +14,7 @@
  I enjoy the thrill of turning ideas into functional prototypes. This experience translates directly into 
   my ability to handle tight deadlines and deliver quality code efficiently in my day-to-day work.”</li>
     </ul>
-
+</body>
 <!---
 UzmaTahir97/UzmaTahir97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
